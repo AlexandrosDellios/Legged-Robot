@@ -49,7 +49,7 @@ Each leg is modeled using a **Hopf oscillator** in polar form to generate stable
 
 ## 🔬 Key Discussion Points
 * **Action Space Analysis:** While Cartesian policies reached higher rewards, they often exhibited unnatural "reward-hacking." CPG action spaces produced smoother, more physically plausible locomotion .
-* **Sim-to-Real Considerations:** Implemented domain randomization—including friction variance and observation noise—to prepare the policy for real-world hardware constraints.
+* **Sim-to-Real Considerations:** Implemented domain randomization, including friction variance and observation noise, to prepare the policy for real-world hardware constraints.
 
 ---
 
