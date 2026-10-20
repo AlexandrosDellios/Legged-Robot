@@ -63,7 +63,6 @@ Each leg is modeled using a **Hopf oscillator** in polar form to generate stable
 * `run_sb3.py`: Training file.
 * `load_sb3.py`: Policy loading.
 * `envs/`: Pybullet environment definitions.
-* `report.pdf`: Full technical documentation.
 
 ---
 
